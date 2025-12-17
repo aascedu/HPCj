@@ -15,21 +15,6 @@ If you are a newcomer into this complex universe, this repository is made for yo
 This repository is about the **infrastructure**, **administration** and **services** sides of HPC clusters.  
 This repository is **not** about HPC programming.
 
-## Repository Structure
-
-```text
-/docs #TODO
-/guides
-/references
-/examples
-README.md
-LICENSE.md
-```
-
-## Conventions
-
-Naming, formatting, terminology, or style conventions used. # TODO
-
 ## Contributing
 
 If you are **not a contributor**, ignore this part.  
