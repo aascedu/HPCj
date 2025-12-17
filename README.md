@@ -23,6 +23,7 @@ This repository is **not** about HPC programming.
 /references
 /examples
 README.md
+LICENSE.md
 ```
 
 ## How to Use This Documentation
