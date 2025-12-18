@@ -42,11 +42,12 @@ Such design helps greatly in HPC workloads since it supports parallel communicat
 
 ### Scalability Features
 
-
+The DragonFly topology supports scalability as it is possible to add nodes as groups. By grouping the nodes, it reduces the complexity of adding additional resources and minimizes the creation of problems with existing networks.  
+Another particularity of the DragonFly topology is that scaling won't affect performances significantly, which is mandatory for organizations that consider current performance and future growth.
 
 ## Advantages of DragonFly Network Topology
 
-
+The DragonFly network topology stands out for its key advantages which includes : high bandwidth capabilities, low latency communication and efficient resource utilization.
 
 ### High Bandwidth Capabilities
 
