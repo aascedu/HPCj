@@ -36,24 +36,53 @@ This mesh-like structure allows dynamic reconfiguration which improves adaptabil
 
 ### Communication Links and Connectivity
 
+The main thing about the DragonFly topology is that it incorporates multiple communication links which greatly improves connectivity between nodes. Each nodes communicates with several other nodes, which allows reducing latency (especially under high load), and creates multiple data transmission paths.  
+We can see this architecture as a non-blocking fabric where packets can be transfered without facing bottlenecks.  
+Such design helps greatly in HPC workloads since it supports parallel communications among the nodes of the network, which is beneficial for tasks requiring intensive data exchanges.
+
+### Scalability Features
+
+
+
 ## Advantages of DragonFly Network Topology
+
+
 
 ### High Bandwidth Capabilities
 
+
+
 ### Low Latency Communication
+
+
 
 ### Efficient Resource Utilization
 
+
+
 ## Comparison with Other Network Topologies
+
+
 
 ### Fat Tree Topology
 
+
+
 ### Clos Network Topology
+
+
 
 ### Mesh Networking
 
+
+
 ## Challenges and Limitations
+
+
 
 ### Complexity in Implementation
 
+
+
 ### Cost Implications
+
